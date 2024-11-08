@@ -1,0 +1,112 @@
+ /* Custom CSS */
+ .text-gradient {
+    font-size: medium;
+}
+#header{
+    
+   
+}
+.rounded-image {
+    border-radius: 50%;
+    background-color: black;
+    /* Optional padding for better appearance */
+}
+#app{
+
+}
+.full-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+} 
+
+#body{
+    margin: 0em 2em;
+    padding: 2em;
+    height: 100vh;
+    /* align-items: center; */
+    display: flex;
+    justify-content: space-around;
+    gap: 2em; 
+}
+#inputArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.ninjaview{
+    background-color: #2C3539;
+}
+#ninjatext{
+    color:#B6B6B4 ;
+}
+#container{
+    color:#78dae7 ;
+}
+#mid-container{
+    border: 1px black;
+    box-shadow: #2C3539 3px 3px 3px;
+}
+#title{
+    display: flex;
+    text-decoration: underline;
+    justify-content: center;
+    font-weight: bold;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#table{
+    border: solid 1px black;
+}
+.th{
+    font-weight: bold;
+    align-items: center;
+    border: solid 1px rgb(3, 3, 110);
+    border-bottom: 1px solid rgb(3, 3, 110);
+}
+#tr{
+    border: 1px black;
+    margin-bottom: 2px;
+}
+.th{
+
+}
+.input{
+    color: #1a2421;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#fields{
+    margin: 1em 2em;
+    border: solid 1px rgb(80, 78, 78);
+    width: 20em;
+}
+#data{
+    
+    padding: 1em;
+    margin: 1px;
+}
+.btn{
+    padding: 2px 2px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: black 2px 2px 2px 2px;
+}
+.delete{
+    background: rgb(236, 85, 85);
+}
+.edit{
+    background: rgb(59, 197, 59);
+}
+.add-btn{
+    background: rgb(196, 175, 175);
+    align-items: center;
+}
+.labels{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 2em;
+}
